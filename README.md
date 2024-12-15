@@ -2,7 +2,7 @@
 
 This project leverages LangChain and ChatPerplexity to generate engaging, concise, and structured Twitter threads based on user input. The application utilizes a language model (```llama-3.1-sonar-small-128k-online```) and a custom prompt template to create threads ready for direct use on Twitter.
 
-##Features
+## Features
 * Twitter-Specific Output: Generates numbered Twitter threads tailored for maximum engagement.
 * Character Limit Compliance: Ensures each tweet is within Twitter’s 280-character limit and the entire thread stays under 25,000 characters.
 * Customizable Prompt: The AI model is primed with a clear and specific system message for consistent and high-quality output.
