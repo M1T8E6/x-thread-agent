@@ -17,7 +17,7 @@ This project leverages LangChain and ChatPerplexity to generate engaging, concis
 
 1.	**Clone the repository:**
 ```bash
-git clone git@github.com:M1T8E6/x-thread-agent.git
+git clone git@github.com:userID/x-thread-agent.git
 cd 
 ```
 
